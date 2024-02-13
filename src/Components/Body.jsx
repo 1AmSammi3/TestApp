@@ -10,7 +10,7 @@ const Body = () => {
   <div className="all">
     <Navbar />
     <Hero />
-    <h1>We've got a meme builder!</h1>
+    <h1>We've got a meme creator!</h1>
     <p>Put your input below to generate one</p>
     <Input />
   </div>
