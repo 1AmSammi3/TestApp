@@ -1,0 +1,14 @@
+.cardView{
+  display: flex;
+  max-width: 90vw;
+  gap: 4px;
+  margin-block-start: 50px;
+  margin-inline: auto;
+  overflow: auto;
+}
+.all{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
